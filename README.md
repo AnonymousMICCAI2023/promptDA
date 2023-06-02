@@ -1,2 +1,2 @@
 # promptDA
-This is the 3DUNet version for infant tissue segmentation of promptDA.
+This is the 3DUNet version promptDA for infant tissue segmentation.
